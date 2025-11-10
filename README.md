@@ -68,12 +68,3 @@ Open `http://localhost:3000` to interact with the dashboard.
 - Adding new movies updates the gallery instantly
 - Layout remains accessible on both desktop and mobile widths
 
----
-
-## 📤 Submission Notes
-Push the project to a GitHub repository named after the checkpoint, then submit the link through the GOMYCODE platform. After instructor approval the submission link becomes read-only, so verify everything beforehand.
-
----
-
-## 🤝 Community Reminder
-Stay engaged with the GOMYCODE community — share progress, ask questions, and keep levelling up together.
